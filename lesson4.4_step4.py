@@ -1,6 +1,6 @@
 from selenium import webdriver
 import time
-import os
+
 import math
 
 link = "http://suninjuly.github.io/alert_accept.html"
